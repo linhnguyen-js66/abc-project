@@ -1,0 +1,59 @@
+.contain-avatar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.avatar{
+    background-color:bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+.title-header{
+    margin-left: 20px;
+    font-size: 1.5vw;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.button-header{
+    border: none;
+    padding: 10px;
+    border-radius: 50px;
+    align-items: center;
+}
+.btn-ava{
+  margin-right: 20px;
+}
+.flex-grow{
+    flex-grow: 1;
+}
+.input-header{
+    border:none;
+    background: none;
+    margin-left: 10px;
+    outline: none;
+    width: 50vmin;
+}
+.ctn-input{
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 20px;
+}
+.search-input{
+    padding: 0px 20px
+}
+.title-chat{
+    font-size: 1.1vw;
+    font-weight: bold;
+}
+.ctn-user{
+ margin-left: 20px;
+}
+.active{
+    margin-top: 6px;
+    font-size: 1vw;
+    color:lightslategray;
+}

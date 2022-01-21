@@ -1,0 +1,13 @@
+.root{
+    display: flex;
+    flex-direction: row;
+}
+.center{
+ flex: 3;
+}
+.line{
+    border-left: 1px solid #0001;
+}
+.right{
+    
+}

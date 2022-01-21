@@ -1,0 +1,42 @@
+export const DataChat = [
+  {
+    id: 1,
+    nameFriend:'Nguyễn Hà Linh',
+    lastuser: 0,
+    titleChat: 'Bạn đã gửi một nhãn dán',
+    isOnline: true,
+    seen: true,
+  },
+  {
+    id: 2,
+    nameFriend:'Nguyễn Thị K',
+    lastuser: 1,
+    titleChat: 'Oke bạn',
+    isOnline: false,
+    seen: false,
+  },
+  {
+    id: 3,
+    nameFriend:'Đặng Văn B',
+    lastuser: 0,
+    titleChat: 'Bán thuốc lắc không ?',
+    isOnline: true,
+    seen: false,
+  },
+  {
+    id: 4,
+    nameFriend:'Nguyễn Hà',
+    lastuser: 1,
+    titleChat: 'Quen tiến bịp à',
+    isOnline: false,
+    seen: false,
+  },
+  {
+    id: 5,
+    nameFriend:'Nguyễn Văn A',
+    lastuser: 0,
+    titleChat: 'Bạn đã gửi một nhãn dán',
+    isOnline: true,
+    seen: true,
+  },
+]

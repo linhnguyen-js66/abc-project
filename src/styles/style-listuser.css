@@ -1,0 +1,33 @@
+.name-user{
+    font-size: 16px;
+    font-weight: bold;
+}
+.contain{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 0px;
+}
+.title-content{
+    margin-left: 20px;
+    flex: 1
+}
+.message{
+    margin-top: 8px;
+    color: lightslategrey;
+}
+.icon-online{
+    position: absolute;
+    right: 2px;
+    bottom: 2px;
+}
+.contain-ava{
+    position: relative;
+}
+.ava-friend{
+    margin-right: 20px;
+}
+.message-unseen{
+    font-weight: 700;
+    margin-top: 8px;
+}
